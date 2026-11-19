@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+.env
+*.joblib
+!fil_rouge/model.joblib
+.pytest_cache/
+.ruff_cache/
+data/cache/
+metriques.json
+courbe_modele.html
+explique.png
+sources/figures/
+sources/data/cache/
